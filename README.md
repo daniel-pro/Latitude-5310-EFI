@@ -15,6 +15,7 @@ Currently working:
 
 Not Working:
  - Headphone Jack
+ - Bluetooth
 
 
 Anything else hasn't been tested.
